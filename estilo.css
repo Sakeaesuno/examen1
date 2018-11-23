@@ -1,0 +1,48 @@
+#img1{
+    height: 70px;
+    width: 70px;
+}
+header{
+    background: rgb(187, 187, 187);
+}
+#indice li{
+    display: inline;
+    background-color: black;
+    font-size: 20px;
+}
+#indice hover{
+    color: goldenrod;
+}
+a{
+    color:white;
+}
+hr{
+    color:black;
+    padding: 3px;
+    background-color: black;
+}
+p{
+    color:blue;
+}
+
+#img3{
+    height: 100px;
+    width: 100px;
+}
+footer{
+    background-color:  rgb(187, 187, 187);
+}
+.footer{
+    color:black;
+}
+li a:hover {
+    background-color:rgb(165, 150, 12);
+    color:white;
+}
+nav{
+    position: relative;
+    top:0px;
+    left:200px;
+    bottom:500px;
+
+}
